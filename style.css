@@ -1,3 +1,26 @@
 body {
+<html>
+  
+  <body>
+  <center>
+    <h3> Kate Liang's Website </h3>
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png">
+  </body>
+  </html>
+  <style> h3 {
+  color: salmon;
+}
+body {
+  background-color: aqua
+}
+h3 {
+  text-decoration-line: underline;
+letter-spacing: 5px;
+Word-spacing: 10px;
+font-family: "Courier New";
+text-shadow: 2px 2px violet;
+}
+img:hover {width: 200px;
+border: dotted purple 20px}
 
 }
