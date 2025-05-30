@@ -24,3 +24,24 @@ img:hover {width: 200px;
 border: dotted purple 20px}
 
 }
+nav {
+  list-style-type: none;
+  background-color: #635;
+  width: 100%;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  padding: 15px;
+}
+li {display: inline; 
+padding: 15px 50px;}
+li a{
+  text-decoration: none;
+  color: white;
+  display: block;
+
+}
+li a: hover {
+  background-color: white;
+  color: black;
+}
