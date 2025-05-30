@@ -15,7 +15,7 @@ body {
 }
 h3 {
   text-decoration-line: underline;
-letter-spacing: 5px;
+letter-spacing: 1px;
 font-family: "Courier New";
 text-shadow: 2px 2px violet;
 }
@@ -30,10 +30,10 @@ nav {
   position: fixed; 
   top: 0;
   left: 0;
-  padding: 15px;
+  padding: 5px;
 }
 li {display: inline; 
-padding: 15px 50px;}
+padding: 5px 10px;}
 li a{
   text-decoration: none;
   color: white;
@@ -49,6 +49,6 @@ body {
 }
 h3 {
   text-decoration-line: underline;
-letter-spacing: 5px;
+letter-spacing: 1px;
 font-family: "Courier New";
 text-shadow: 2px 2px violet;}
