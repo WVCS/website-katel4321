@@ -26,7 +26,7 @@ border: dotted purple 20px}
 nav {
   list-style-type: none;
   background-color: #635;
-  width: 5%;
+  width: 10%;
   position: fixed; 
   top: 0;
   left: 0;
@@ -49,17 +49,17 @@ body {
 }
 h3 {
   text-decoration-line: underline;
-letter-spacing: 1px;
+letter-spacing: 5px;
 font-family: "Courier New";
 text-shadow: 2px 2px violet;}
 nav {
   list-style-type: none;
   background-color: #635;
-  width: 100%;
+  width: 50%;
   position: fixed; 
   top: 0;
   left: 0;
-  padding: 15px;
+  padding: 10px;
 }
 li {display: inline; Add commentMore actions
 padding: 15px 50px;}
