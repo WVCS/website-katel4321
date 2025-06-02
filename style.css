@@ -23,7 +23,7 @@ img:hover {width: 200px;
 border: dotted purple 20px}
 
 }
-nav {
+
  nav {
   list-style-type: none;
   background-color: #635;
@@ -54,23 +54,7 @@ h3 {
 letter-spacing: 5px;
 font-family: "Courier New";
 text-shadow: 2px 2px violet;}
-nav {
-  list-style-type: none;
-  background-color: #635;
-  width: 50%;
-  position: fixed; 
-  top: 0;
-  left: 0;
-  padding: 10px;
-}
-li {display: inline; Add commentMore actions
-padding: 15px 50px;}
-li a{
-  text-decoration: none;
-  color: white;
-  display: block;
-padding: 15px 50px;
-}
+
 li a: hover {
   background-color: white;
   color: black;
