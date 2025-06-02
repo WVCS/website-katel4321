@@ -26,14 +26,14 @@ border: dotted purple 20px}
 nav {
   list-style-type: none;
   background-color: #635;
-  width: 10%;
+  width: 5%;
   position: fixed; 
   top: 0;
   left: 0;
   padding: 2px;
 }
 li {display: inline; 
-padding: 5px 10px;}
+padding: 2px 5px;}
 li a{
   text-decoration: none;
   color: white;
