@@ -24,16 +24,17 @@ border: dotted purple 20px}
 
 }
 nav {
+ nav {
   list-style-type: none;
   background-color: #635;
   width: 10%;
   position: fixed; 
   top: 0;
   left: 0;
-;
+  padding: 1px;
 }
 li {display: inline; 
-padding: 2px 5px;}
+padding: 10px 10px;}
 li a{
   text-decoration: none;
   color: white;
@@ -43,6 +44,7 @@ li a{
 li a: hover {
   background-color: white;
   color: black;
+}
 }
 body {
   background-color: aqua
