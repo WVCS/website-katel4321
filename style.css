@@ -67,7 +67,7 @@ li a{
   text-decoration: none;
   color: white;
   display: block;
-
+padding: 15px 50px;
 }
 li a: hover {
   background-color: white;
