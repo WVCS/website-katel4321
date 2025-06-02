@@ -1,3 +1,38 @@
+nav {
+  list-style-type: none;
+  background-color: #635;
+  width: 10%;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  padding: 1px;
+}
+li {display: inline; 
+padding: 10px 10px;}
+li a{
+  text-decoration: none;
+  color: white;
+  display: block;
+
+}
+li a: hover {
+  background-color: white;
+  color: black;
+}
+}
+body {
+  background-color: aqua
+}
+h3 {
+  text-decoration-line: underline;
+letter-spacing: 5px;
+font-family: "Courier New";
+text-shadow: 2px 2px violet;}
+
+li a: hover {
+  background-color: white;
+  color: black;
+}
 body {
 <html>
   
@@ -59,4 +94,87 @@ li a: hover {
   background-color: white;
   color: black;
 }
- </html>
+ body {
+<html>
+  
+  <body>
+  <center>
+    <h3> Kate Liang's Website </h3>
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png">
+  </body>
+ 
+  <style> h3 {
+  color: salmon;
+}
+body {
+  background-color: aqua
+}
+h3 {
+  text-decoration-line: underline;
+letter-spacing: 1px;
+font-family: "Courier New";
+text-shadow: 2px 2px violet;
+}
+img:hover {width: 200px;
+border: dotted purple 20px}
+
+}
+
+ nav {
+  list-style-type: none;
+  background-color: #635;
+  width: 10%;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  padding: 1px;
+}
+li {display: inline; 
+padding: 10px 10px;}
+li a{
+  text-decoration: none;
+  color: white;
+  display: block;
+
+}
+li a: hover {
+  background-color: white;
+  color: black;
+}
+}
+body {
+  background-color: aqua
+}
+h3 {
+  text-decoration-line: underline;
+letter-spacing: 5px;
+font-family: "Courier New";
+text-shadow: 2px 2px violet;}
+
+li a: hover {
+  background-color: white;
+  color: black;
+}
+body {
+  background-color: aqua
+}
+h3 {
+  text-decoration-line: underline;
+letter-spacing: 5px;
+Word-spacing: 10px;
+font-family: "Courier New";
+text-shadow: 2px 2px violet;}
+
+    <nav>
+  <center>
+<li> <a href="index.html"> Home </a></li>
+  <li> <a href="languageapp.html"> Language App </a></li>
+    <li> <a href="treedrawing.html"> Tree drawing collab </a> </li>
+    <br>
+    <br>
+    <br> 
+    <br>
+</nav>
+    </center>
+
+ 
